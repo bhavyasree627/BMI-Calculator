@@ -1,0 +1,21 @@
+h1{
+    text-align:center;
+    color:white;
+}
+.form-div{
+    text-align:center;
+    margin-top:2%;
+    margin-left:25%;
+    margin-right:25%;
+    border: 2px solid;
+    padding:2% ;
+    background-color:#7f613b;
+}
+.output{
+    text-align: center;
+    color:white;
+}
+body{
+    background-color: black;
+}
+
